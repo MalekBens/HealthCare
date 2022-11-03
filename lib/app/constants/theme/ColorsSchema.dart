@@ -7,3 +7,4 @@ const Color blackText = Color.fromARGB(255, 35, 35, 45);
 const Color navigationColor = Color.fromARGB(255, 122, 135, 251);
 const Color shadowColor = Color.fromARGB(255, 91, 115, 215);
 const Color selectedDayColor = Color.fromARGB(255, 243, 168, 163);
+const Color whiteText = Color.fromARGB(255, 255, 255, 255);
